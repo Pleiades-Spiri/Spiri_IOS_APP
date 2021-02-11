@@ -1,0 +1,10 @@
+Warning : make sure you Iphone is update to the 14.0 or more 
+          make sure the motion camera has been install on the TX2
+
+Step 1: unzip the spiri_ios_app file
+
+Step 2: using the latest xcode open the spiri.xcworkspace in spiri directory
+
+Step 3: change the ip address, the user name and the password of the drone in LoggedInViewController.swift
+
+Step 4: change the ip address of the drone in ImageViewController.swift

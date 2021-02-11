@@ -8,3 +8,5 @@ Step 2: using the latest xcode open the spiri.xcworkspace in spiri directory
 Step 3: change the ip address, the user name and the password of the drone in LoggedInViewController.swift
 
 Step 4: change the ip address of the drone in ImageViewController.swift
+
+Step 5: connect your phone to the MAC then change the device to your phone. click run button waiting for the installation
